@@ -1,6 +1,6 @@
 Price & Discount Calculator — JavaScript Fundamentals
 
-Phase 2 · JavaScript — JS Core, DOM, Async & APIs Assignment No. 2 · Week 5 — Session 15 · Max Marks: 10
+Phase 2 · JavaScript — JS Core, DOM, Async & APIs
 
 A price and discount calculator built with pure JavaScript (no DOM, no arrays). It covers variables, operators, conditionals, functions and scope from Sessions 12 to 15.
 
